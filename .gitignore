@@ -1,0 +1,4 @@
+#Ignore practice exercises folder
+Practice Exercises/
+#ignore node_modules folder
+node_modules/
